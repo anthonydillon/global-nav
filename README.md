@@ -31,7 +31,7 @@ For example, to use the global-nav without the "login" section, and set the `max
 
 ``` html
 <script src="/node_modules/global-nav/dist/index.js"></script>
-<script>canonicalGlobalNav.createNav({showLogins: false, maxWidt: '80rem'});</script>
+<script>canonicalGlobalNav.createNav({showLogins: false, maxWidth: '80rem'});</script>
 ```
 
 ## Building the Global nav
@@ -64,4 +64,4 @@ If you would like to help improve this project, here is a list of commands to he
 
 Code licensed LGPLv3 by Canonical Ltd.
 
-With ♥ from Canonical 
+With ♥ from Canonical
